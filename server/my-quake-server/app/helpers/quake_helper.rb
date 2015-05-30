@@ -1,0 +1,2 @@
+module QuakeHelper
+end
